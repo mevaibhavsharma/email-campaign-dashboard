@@ -21,5 +21,5 @@ This project analyzes simulated email marketing campaign data to uncover perform
 - `/assets/` – Folder containing dashboard screenshots
 
 ### 🔗 Outputs
-- ![Dashboard Preview](./dashboard-screenshot.png)
+- ![Dashboard Preview](./Dashboard-screenshot.png)
 - [📄 View Full Report (PDF)](./Email-Campaign-Dashboard.pdf)
